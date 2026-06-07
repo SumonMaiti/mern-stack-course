@@ -15,5 +15,3 @@
 
 </div>
 
-# Python Codes
-This repo is created to store all the python codes
